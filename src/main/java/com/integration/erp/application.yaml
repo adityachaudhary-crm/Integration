@@ -1,6 +1,0 @@
-spring.devtools.restart.enabled=true
-salesforce.client-id=3MVG9XgkMlifdwVBcasuMyH_JjZbeu2eXWZErdXyx1sL0ZkPDrdLXIWClANXaWvIoe2hfArYLGHeUB5wjUCm9 
-salesforce.client-secret=8E0D298E72059F192001F496E0F617ED21D0212FFBAA50DB01B31D3E48EEC0D4
-salesforce.token-url=https://adityachaudharycrm-dev-ed.develop.my.salesforce.com/services/oauth2/token/
-salesforce.account-endpoint=https://adityachaudharycrm-dev-ed.develop.my.salesforce.com/services/data/v56.0/sobjects/Account/
-c
