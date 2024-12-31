@@ -6,7 +6,7 @@
 # Java - Salesforce Integration 
   Connect Java to Salesforce with Spring Boot and Salesforce's External Client Apps. Live Java application is hosted on Heroku.  
 
-## Server to Server Authentication Flows 
+## Server to Server
 -  No user interference while integrating. 
 
 ### Client Credential
@@ -26,3 +26,5 @@
 - Host: https://adityachaudhary-crm-java-e3acd64ca5e4.herokuapp.com
 - Endpoint: **jwt**/account/001aj00000mq6FQAAY"
 - Salesforce-Org: https://adityachaudharycrm-dev-ed.develop.my.salesforce.com
+
+## User to Client Server to Auth Server
