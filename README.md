@@ -26,5 +26,3 @@
 - Host: https://adityachaudhary-crm-java-e3acd64ca5e4.herokuapp.com
 - Endpoint: **jwt**/account/001aj00000mq6FQAAY"
 - Salesforce-Org: https://adityachaudharycrm-dev-ed.develop.my.salesforce.com
-
-## User to Client Server to Auth Server
