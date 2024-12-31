@@ -1,3 +1,8 @@
+#Author
+### Aditya Chaudhary
+### adityachaudhary.crm@gmail.com
+### 608-692-0386
+
 # Java - Salesforce Integration 
   Connect Java to Salesforce with Spring Boot and Salesforce's External Client Apps. Live Java application is hosted on Heroku.  
 
